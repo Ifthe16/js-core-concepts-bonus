@@ -15,6 +15,7 @@ function factorial(i) {
 
 const result = factorial(5);
 console.log(result);
+
 /* 
     5 * factorial(4)
     5 * 4 * factorial(3)
